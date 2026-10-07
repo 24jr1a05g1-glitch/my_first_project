@@ -1,5 +1,5 @@
-#requirments
+
 streamlit 
- requests
- pandas as pd
- plotly.express 
+requests
+pandas
+plotly 
